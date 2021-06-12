@@ -126,7 +126,7 @@ body {
 	border-radius: 2.5px;
 	background-color: #000;
 	transform-origin: 50% calc(100% - 2.5px);
-	transition-duration: 10s;
+	transition-duration: 7s;
 	transition-timing-function: ease-in-out;
 }
 #one{

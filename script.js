@@ -2,7 +2,7 @@ var h = 8, w = 15;
 var total_units = h*w;
 var element = "";
 var random_x = 0, random_y = 0;
-var interval = 10000; //transition duration
+var interval = 7000; //transition duration
 var duration = 2000;
 var is_mobile;
 var unit ="<div class=\"unit\"><div class=\"arm\" id=\"one\"></div><div class=\"arm\" id=\"two\"></div></div>";
