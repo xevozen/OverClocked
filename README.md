@@ -1,6 +1,6 @@
 # [OverClocked](https://xevozen.github.io/OverClocked/) 
 :pushpin: Clock, but on a different level. Not just any other clock on the internet. Visit to experience.
-[![Initial Author: Souhardhya Paul](https://img.shields.io/badge/Initial%20Author-Souhardhya%20Paul-red)](https://github.com/xevozen) [![Apache 2.0 Licence](https://img.shields.io/badge/license-Apache 2.0-green)](https://choosealicense.com/licenses/apache-2.0/) ![HTML 5](https://img.shields.io/badge/html-5-orange) ![CSS 3](https://img.shields.io/badge/css-3-blue) ![JS ES5+](https://img.shields.io/badge/js-ES5%2B-yellow)
+[![Initial Author: Souhardhya Paul](https://img.shields.io/badge/Initial%20Author-Souhardhya%20Paul-red)](https://github.com/xevozen) [![Apache 2.0 Licence](https://img.shields.io/badge/license-Apache%202.0-green)](https://choosealicense.com/licenses/apache-2.0/) ![HTML 5](https://img.shields.io/badge/html-5-orange) ![CSS 3](https://img.shields.io/badge/css-3-blue) ![JS ES5+](https://img.shields.io/badge/js-ES5%2B-yellow)
 
 -------------
 
